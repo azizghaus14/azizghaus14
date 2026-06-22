@@ -10,10 +10,6 @@ I am currently studying **Computer Science — Data Analytics** 📊 at **Asia P
 
 I enjoy the full analytics loop: **collect → clean → analyse → visualise → recommend**. My favourite tools are **Python** and **SQL** — I love digging into messy datasets and turning them into clear, honest decisions. I'm also comfortable in **R** for statistics and experimentation.
 
-## 🌟 Siraj Pro
-
-I designed and built **[Siraj Pro](https://www.sirajpro.app)** — a prayer-times **iOS app** built end to end in **SwiftUI** (~19k lines), with WidgetKit home-screen widgets and a Screen Time integration. I built the whole product: the app, the [website](https://www.sirajpro.app), and the design. _(App source is private — happy to share on request.)_
-
 ## What I'm Working On Right Now
 
 I'm growing a public data-analytics portfolio: customer-churn modelling, SQL cohort/RFM analysis, and A/B-test hypothesis testing. Always up for suggestions, feedback, or a chance to collaborate!
@@ -41,6 +37,7 @@ _Also build with:_
 
 | Project | What it shows | Stack |
 |---------|---------------|-------|
+| [🌟 Siraj Pro](https://www.sirajpro.app) | A prayer-times **iOS app I built end to end** — WidgetKit widgets, Screen Time integration, and the marketing site. _(App source private — available on request.)_ | SwiftUI, WidgetKit |
 | [🛍️ Retail Revenue & Churn Analysis](https://github.com/azizghaus14/retail-revenue-analysis) | EDA, RFM segmentation, cohort retention, leakage-free churn ML model | Python, scikit-learn |
 | [🗃️ E-commerce SQL Analytics](https://github.com/azizghaus14/ecommerce-sql-analytics) | Window functions, cohorts, RFM in pure SQL | SQL, SQLite |
 | [🧪 A/B Test Analysis](https://github.com/azizghaus14/ab-test-analysis-r) | Hypothesis testing, confidence intervals, ship/no-ship call | R, ggplot2 |
