@@ -8,11 +8,13 @@ I am currently studying **Computer Science — Data Analytics** 📊 at **Asia P
 
 ## What I Love Working with
 
-I enjoy the full analytics loop: **collect → clean → analyse → visualise → recommend**. My favourite tools are **Python** and **SQL** — I love digging into messy datasets and turning them into clear, honest decisions. I'm also comfortable in **R** for statistics and experimentation.
+I enjoy the full analytics loop: **collect → clean → analyse → visualise → recommend**. My favourite tools are **Python** and **SQL** — I love digging into messy datasets and turning them into clear, honest decisions, and I use **R** for statistics and experimentation.
+
+I also love **building real products**. I taught myself **Swift / SwiftUI** and shipped a full **iOS app** (see Siraj Pro below) — taking it from UI design all the way to working, shipping-ready code.
 
 ## What I'm Working On Right Now
 
-I'm growing a public data-analytics portfolio: customer-churn modelling, SQL cohort/RFM analysis, and A/B-test hypothesis testing. Always up for suggestions, feedback, or a chance to collaborate!
+Two things in parallel: polishing **Siraj Pro**, my SwiftUI iOS app (widgets, Screen Time integration), and growing a public **data-analytics portfolio** — customer-churn modelling, SQL cohort/RFM analysis, and A/B-test hypothesis testing. Always up for suggestions, feedback, or a chance to collaborate!
 
 ## Stuff I have Worked with
 
