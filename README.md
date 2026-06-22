@@ -51,3 +51,5 @@ Right now I'm growing a public data-analytics portfolio: customer-churn modellin
 ---
 
 <i>Open to internship opportunities — let's talk data.</i>
+
+<!-- profile -->
