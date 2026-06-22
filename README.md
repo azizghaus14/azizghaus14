@@ -28,6 +28,11 @@ Right now I'm growing a public data-analytics portfolio: customer-churn modellin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+_Also build with:_
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+
 ## Featured Projects
 
 | Project | What it shows | Stack |
@@ -38,7 +43,7 @@ Right now I'm growing a public data-analytics portfolio: customer-churn modellin
 
 ## Beyond Analytics
 
-I also designed and built **[Siraj Pro](https://github.com/azizghaus14/SirajProWebsite)** — a prayer-times iOS app — including its full marketing website (HTML, CSS, vanilla JS with a custom design system). It's a personal product I built end to end, from UI design to front-end implementation.
+I designed and built **[Siraj Pro](https://github.com/azizghaus14/SirajProWebsite)** — a prayer-times iOS app — entirely in **SwiftUI** (~19k lines), with **WidgetKit** home-screen widgets and a **Screen Time / Family Controls** integration that limits distractions around prayer times. I also built its [marketing website](https://github.com/azizghaus14/SirajProWebsite) (HTML/CSS/JS). A product I took end to end, from UI design to shipping-ready code.
 
 ## Where to Find Me
 
