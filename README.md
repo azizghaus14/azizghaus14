@@ -10,21 +10,13 @@ I am currently studying **Computer Science — Data Analytics** 📊 at **Asia P
 
 I enjoy the full analytics loop: **collect → clean → analyse → visualise → recommend**. My favourite tools are **Python** and **SQL** — I love digging into messy datasets and turning them into clear, honest decisions. I'm also comfortable in **R** for statistics and experimentation.
 
-## 🌟 Flagship Project — Siraj Pro
+## 🌟 Siraj Pro
 
-**[Siraj Pro](https://www.sirajpro.app)** is a prayer-times **iOS app I designed and built end to end** — not just a concept or a landing page, but a full product.
-
-- 📱 **The app:** ~19,000 lines of **SwiftUI** across 49 files, architected by me from scratch.
-- 🧩 **Home-screen widgets** built with **WidgetKit**, rendering live prayer times.
-- 🛡️ **Screen Time / Family Controls** integration that gently limits distractions around prayer times.
-- 🎨 **End-to-end ownership:** UI/UX design, app code, App Store pages, and the marketing site.
-- 🌐 **Live site:** [www.sirajpro.app](https://www.sirajpro.app) · [website source](https://github.com/azizghaus14/SirajProWebsite)
-
-> The full app source is in a private repository — happy to share it on request.
+I designed and built **[Siraj Pro](https://www.sirajpro.app)** — a prayer-times **iOS app** built end to end in **SwiftUI** (~19k lines), with WidgetKit home-screen widgets and a Screen Time integration. I built the whole product: the app, the [website](https://www.sirajpro.app), and the design. _(App source is private — happy to share on request.)_
 
 ## What I'm Working On Right Now
 
-Alongside shipping **Siraj Pro**, I'm growing a public data-analytics portfolio: customer-churn modelling, SQL cohort/RFM analysis, and A/B-test hypothesis testing. Always up for suggestions, feedback, or a chance to collaborate!
+I'm growing a public data-analytics portfolio: customer-churn modelling, SQL cohort/RFM analysis, and A/B-test hypothesis testing. Always up for suggestions, feedback, or a chance to collaborate!
 
 ## Stuff I have Worked with
 
