@@ -36,6 +36,10 @@ Right now I'm growing a public data-analytics portfolio: customer-churn modellin
 | [🗃️ E-commerce SQL Analytics](https://github.com/azizghaus14/ecommerce-sql-analytics) | Window functions, cohorts, RFM in pure SQL | SQL, SQLite |
 | [🧪 A/B Test Analysis](https://github.com/azizghaus14/ab-test-analysis-r) | Hypothesis testing, confidence intervals, ship/no-ship call | R, ggplot2 |
 
+## Beyond Analytics
+
+I also designed and built **[Siraj Pro](https://github.com/azizghaus14/SirajProWebsite)** — a prayer-times iOS app — including its full marketing website (HTML, CSS, vanilla JS with a custom design system). It's a personal product I built end to end, from UI design to front-end implementation.
+
 ## Where to Find Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:azizghaus80@gmail.com)
